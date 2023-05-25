@@ -1,0 +1,69 @@
+Character - Star - Nature Material - Mob Material - Boss Material - Talent Book - Domain Material
+Amber - **** - Small Lamp Grass - Arrowhead - Everflame Seed - Freedom - Dvalin's Sigh
+Barbara - **** - Philanemo Mushroom - Scroll - Cleansing Heart - Freedom - Ring of Boreas
+Beidou - **** - Noctilucous Jade - Raven Insignia - Lightning Prism - Gold - Dvalin's Sigh
+Bennett - **** - Windwheel Aster - Raven Insignia - Everflame Seed - Resistance - Dvalin's Plume
+Chongyun - **** - Cor Lapis - Mask - Hoarfrost Core - Diligence - Dvalin's Sigh
+Diluc - ***** - Small Lamp Grass - Insignia
+Fischl - **** - Small Lamp Grass - Arrowhead - Lightning Prism - Ballad - Spirit Locket of Boreas
+Jean - ***** - Small Lamp Grass - Mask - Everflame Seed
+Kaeya - **** - Calla Lilly - Raven Insignia - Hoarfrost Core - Ballad - Spirit Locket of Boreas
+Keqing - ***** - Small Lamp Grass - Nectar - Everflame Seed
+Lisa - **** - Valberry - Slime - Lightning Prism - Ballad - Dvalin's Claw
+Mona - ***** - Small Lamp Grass - Nectar - Everflame Seed
+Ningguang - **** - Glaze Lily - Insignia - Basalt Pillar - Prosperity - Spirit Locket of Boreas
+Noelle - **** - Valberry - Mask - Basalt Pillar - Resistance - Dvalin's Claw
+Qiqi - ***** - Small Lamp Grass - Scroll - Everflame Seed
+Razor - **** - Wolfhook - Mask - Lightning Prism - Resistance - Dvalin's Claw
+Sucrose - **** - Windwheel Aster - Nectar - Hurricane Seed - Freedom - Spirit Locket of Boreas
+Traveller - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Venti - ***** - Small Lamp Grass - Slime - Everflame Seed
+Xiangling - **** - Jueyun Chilli - Slime - Everflame Seed - Diligence - Dvalin's Claw
+Xingqiu - **** - Silk Flower - Mask - Cleansing Heart - Gold - Tail of Boreas
+Klee - ***** - Small Lamp Grass - Scroll - Everflame Seed
+Diona - **** - Calla Lilly - Arrowhead - Hoarfrost Core - Freedom - Shard of Foul Legacy
+Tartaglia - ***** - Small Lamp Grass - Insignia - Everflame Seed
+Xinyan - **** - Violetgrass - Raven Insignia - Everflame Seed
+Zhongli - ***** - Small Lamp Grass - Slime - Everflame Seed
+Albedo - ***** - Small Lamp Grass - Scroll - Everflame Seed
+Ganyu - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Xiao - ***** - Small Lamp Grass - Arrowhead - Everflame Seed
+Hu Tao - ***** - Small Lamp Grass - Nectar - Everflame Seed
+Rosaria - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Yanfei - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Eula - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Kazuha - ***** - Small Lamp Grass - Raven Insignia - Everflame Seed
+Ayaka - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Sayu - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Yoimiya - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Aloy - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Kujou Sara - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Raiden - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Kokomi - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Thoma - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Itto - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Gorou - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Shenhe - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Yun Jin - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Yae Miko - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Ayato - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Yelan - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Kuki - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Heizou - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Collei - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Tighnari - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Dori - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Candace - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Cyno - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Nilou - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Nahida - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Layla - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Faruzan - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Wanderer - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Alhaitham - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Yaoyao - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Dehya - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Mika - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Baizhu - ***** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Kaveh - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
+Kirara - **** - Small Lamp Grass - Firm Arrowhead - Everflame Seed
