@@ -24,6 +24,7 @@
     <Compile Include="Genshin_Enhancement_Calculator.py" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BMaterials.txt" />
     <Content Include="Characters.txt" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
